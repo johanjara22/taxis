@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:51777/Sesion_de_Cliente/ingresoCliente?wsdl" uri="src/conf/xml-resources/web-service-references/ingresoCliente/wsdl/localhost_51777/Sesion_de_Cliente/ingresoCliente.wsdl"/>
+    <system systemId="http://localhost:51777/Sesion_de_Cliente/ingresoCliente?xsd=1" uri="src/conf/xml-resources/web-service-references/ingresoCliente/wsdl/localhost_51777/Sesion_de_Cliente/ingresoCliente.xsd_1.xsd"/>
+    <system systemId="http://localhost:51777/Sesion_de_taxistas/ingresoTaxistas?wsdl" uri="src/conf/xml-resources/web-service-references/ingresoTaxistas/wsdl/localhost_51777/Sesion_de_taxistas/ingresoTaxistas.wsdl"/>
+    <system systemId="http://localhost:51777/Sesion_de_taxistas/ingresoTaxistas?xsd=1" uri="src/conf/xml-resources/web-service-references/ingresoTaxistas/wsdl/localhost_51777/Sesion_de_taxistas/ingresoTaxistas.xsd_1.xsd"/>
+</catalog>
